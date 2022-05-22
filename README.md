@@ -9,6 +9,11 @@ In the context of the course the basic usage and functionalities of Tableau Publ
 - [x] Tableau Functionalities: Duplicate sheets, create tables, create custom fields, inserting filters, working with joins
 - [x] The Tableau Exercise: create a dashboard, perform numbers check, blending data, create charts, add interactive filters
 
+## Installation
+1. Go to [Tableau Public on Windows](https://public.tableau.com/en-us/s/download).
+2. Download executable installer file for windows (or whatever OS you have).
+3. After download install Tableau Public by executing the downloaded file. 
+
 ## Keywords
 * Tableau Public
 * Data Visualization

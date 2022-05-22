@@ -5,6 +5,9 @@ The content origins from the Udemy course [Fundamentals of Data Visualization in
 
 In the context of the course the basic usage and functionalities of Tableau Public are introduced. 
 
+<img src="img/tableau-dashboard.PNG" width=80% height=80%>
+<em>Tableau Dashboard</em>
+
 ## Course Chapters
 - [x] Introduction to Tableau: Connecting data in Tableau, exploring Tableau's interface
 - [x] Tableau Functionalities: Duplicate sheets, create tables, create custom fields, inserting filters, working with joins

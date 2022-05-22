@@ -3,7 +3,7 @@
 This project contains data for processing and visualization using [Tableau Public on Windows](https://public.tableau.com/en-us/s/download). 
 The content origins from the Udemy course [Fundamentals of Data Visualization in Tableau](https://www.udemy.com/course/fundamentals-of-data-visualization-in-tableau/).
 
-In the context of the course the basic usage and functionalities of Tableau Public are presented. 
+In the context of the course the basic usage and functionalities of Tableau Public are introduced. 
 
 ## Course Chapters
 - [x] Introduction to Tableau: Connecting data in Tableau, exploring Tableau's interface
@@ -27,4 +27,5 @@ In the context of the course the basic usage and functionalities of Tableau Publ
 * Tableau Public
 
 ## Conclusion / Remarks
-* In this course the basic functionalities and basic usage of tableau is shown in terms of data manipulation and data visualization. 
+* This course introduces the tool Tableau Public. 
+* In this course the basic functionalities and basic usage of tableau are shown in terms of data manipulation and especially data visualization. 

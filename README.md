@@ -2,6 +2,7 @@
 
 This project contains data and installation file for [Tableau Public on Windows](https://public.tableau.com/en-us/s/download). 
 The content origins from the Udemy course [Fundamentals of Data Visualization in Tableau](https://www.udemy.com/course/fundamentals-of-data-visualization-in-tableau/).
+
 In the context of the course the basic usage and functionalities of Tableau Public are presented. 
 
 ## Course Chapters

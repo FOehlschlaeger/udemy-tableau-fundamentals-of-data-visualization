@@ -1,4 +1,12 @@
-# udemy-tableau-fundamentals-of-data-visualization
+# Data Visualization with Tableau
+
+## References
+- [Youtube: Tableau for Data Science and Data Visualization - Crash Course Tutorial](https://www.youtube.com/watch?v=TPMlZxRRaBQ)
+- [Youtube: Tableau in Two Minutes - Tableau Basics for Beginners](https://www.youtube.com/watch?v=jEgVto5QME8)
+- [Youtube: Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka](https://www.youtube.com/watch?v=aHaOIvR00So)
+- [Youtube: How to Install Tableau and Create First Visualization | Tableau Tutorials for Beginners](https://www.youtube.com/watch?v=6xv1KvCMF1Q)
+
+## udemy-tableau-fundamentals-of-data-visualization
 
 This project contains data for processing and visualization using [Tableau Public on Windows](https://public.tableau.com/en-us/s/download). 
 The content origins from the Udemy course [Fundamentals of Data Visualization in Tableau](https://www.udemy.com/course/fundamentals-of-data-visualization-in-tableau/).
